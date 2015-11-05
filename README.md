@@ -1,3 +1,5 @@
+Program to find the Nth prime number
+
 #include<stdio.h>
     
 int main()
